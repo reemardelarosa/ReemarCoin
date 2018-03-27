@@ -11,7 +11,7 @@
 
 
 ### Neezil Coin
-- [Verified ERC20-Token ReemarCoin](https://rinkeby.etherscan.io/token/0x5839a1e6f1a4fdf380cd57bb54f364e2680920bb#readContract)
+- [Verified ERC20-Token NeezilCoin](https://rinkeby.etherscan.io/token/0x5839a1e6f1a4fdf380cd57bb54f364e2680920bb#readContract)
 - [Contract Address - 0xbb1a82cb1962db8fbd3068af3dca42f9038a3d08](https://rinkeby.etherscan.io/address/0x5839a1e6f1a4fdf380cd57bb54f364e2680920bb#readContract)
 + Decimals: 18
 + Symbol: NZL
